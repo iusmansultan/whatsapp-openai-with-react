@@ -10,4 +10,4 @@
 
 ### OpenAI API
 Check the API here: [OpenAI](https://openai.com/blog/openai-api)
-# whatsapp-openai-with-react
+
